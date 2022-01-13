@@ -1,0 +1,33 @@
+F:\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+F:\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+F:\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\2017115029_Project1.csprojAssemblyReference.cache
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CFrmAbout.resources
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\2017115029_Project1.csproj.GenerateResource.cache
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+F:\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.pdb
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\2017115029_Project1.csprojAssemblyReference.cache
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CFrmAbout.resources
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\2017115029_Project1.csproj.GenerateResource.cache
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+C:\Users\Katleho\Documents\School\3rd year\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.pdb
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\2017115029_Project1.csprojAssemblyReference.cache
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CFrmAbout.resources
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\2017115029_Project1.csproj.GenerateResource.cache
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+C:\Users\Katleho\Documents\School\3rd year\1st Semester\CSIS2614\Assignments\2017115029_Project1\Ch12Ex3\obj\Debug\Ch12Ex3.pdb

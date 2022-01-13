@@ -1,0 +1,42 @@
+T:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+T:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+T:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csprojAssemblyReference.cache
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csproj.GenerateResource.cache
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+T:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.pdb
+F:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+F:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+F:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csprojAssemblyReference.cache
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csproj.GenerateResource.cache
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+F:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.pdb
+D:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+D:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+D:\Ch12Ex3\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csprojResolveAssemblyReference.cache
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csproj.GenerateResource.cache
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.csproj.CoreCompileInputs.cache
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+D:\Ch12Ex3\Ch12Ex3\obj\Debug\Ch12Ex3.pdb
+F:\Ch12Ex3 - Copy\Ch12Ex3\bin\Debug\Ch12Ex3.exe.config
+F:\Ch12Ex3 - Copy\Ch12Ex3\bin\Debug\Ch12Ex3.exe
+F:\Ch12Ex3 - Copy\Ch12Ex3\bin\Debug\Ch12Ex3.pdb
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.csprojAssemblyReference.cache
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmEmployees.resources
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.CfrmPayslip.resources
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.Properties.Resources.resources
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.csproj.GenerateResource.cache
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.exe
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.pdb
+F:\Ch12Ex3 - Copy\Ch12Ex3\obj\Debug\Ch12Ex3.CFrmAbout.resources
